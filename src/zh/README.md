@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Ethan 的博客
 heroFullScreen: true
-bgImage: /assets/ef1c443bf5a7f37808a5c1fac1023697绘壁纸.png
+bgImage: https://github.com/Ethan-Zhengsy/blog/blob/main/src/assets/ef1c443bf5a7f37808a5c1fac1023697%E7%BB%98%E5%A3%81%E7%BA%B8.png?raw=true
 tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: folder-open
