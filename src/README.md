@@ -3,7 +3,6 @@ home: true
 layout: Blog
 icon: house
 title: Blog Home
-
 heroText: Ethan's blog
 tagline: You can put your slogan here
 heroFullScreen: true
