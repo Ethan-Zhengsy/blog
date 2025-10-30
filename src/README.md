@@ -6,7 +6,7 @@ title: Blog Home
 heroText: Ethan's blog
 tagline: You can put your slogan here
 heroFullScreen: true
-bgImage: ./src/assets/ef1c443bf5a7f37808a5c1fac1023697绘壁纸.jpg
+bgImage: https://github.com/Ethan-Zhengsy/blog/blob/main/src/assets/ef1c443bf5a7f37808a5c1fac1023697%E7%BB%98%E5%A3%81%E7%BA%B8.png?raw=true
 projects:
   - icon: folder-open
     name: project name
